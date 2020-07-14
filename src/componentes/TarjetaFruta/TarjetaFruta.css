@@ -1,0 +1,13 @@
+.class1  {
+        border: 1px solid black;
+        background: white;
+        margin-bottom : 1em;
+        border-radius : 0.5em;
+        color : black;
+        transition : all 250ms ease-out
+}
+
+.class1-activa  {
+    background: linear-gradient(45deg, black, #4a02f7);
+    color : #ffffff;
+}
